@@ -1,0 +1,22 @@
+.part1
+{
+    width: 100%;
+    height: 180px;
+    background-color:#FF6600;
+}
+.part2{
+    width: 100%;
+    height: 160px;
+    background-color:#FFFFFF;
+}
+p{
+   font-weight:bolder;
+   text-align:center;
+   font-family:comic sans ms, comic Sans, cursive;
+   font-size:100px;
+}
+.part3{
+    width: 100%;
+    height: 180px;
+    background-color:#4c4c4c;
+}
